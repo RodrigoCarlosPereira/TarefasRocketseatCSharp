@@ -2,7 +2,7 @@
 using Tarefas.Communication.Requests;
 using Tarefas.Communication.Responses;
 
-namespace Tarefas.Application.Tarefas.UseCase;
+namespace Tarefas.Application.Tarefas.UseCase.CreateTarefas;
 
 public class CreateTarefasUseCase
 {
